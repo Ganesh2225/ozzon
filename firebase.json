@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "ozzon",
+    "cleanUrl": "true",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
